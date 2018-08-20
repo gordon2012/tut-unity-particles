@@ -5,5 +5,5 @@
 ### https://www.raywenderlich.com/138-introduction-to-unity-particle-systems
 - [X] Getting Started with Particle Systems
 - [X] Adding a Particle System
-- [ ] Introducing the Emission Module
+- [X] Introducing the Emission Module
 - [ ] Building a Bomb (Effect)
