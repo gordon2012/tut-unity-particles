@@ -6,4 +6,4 @@
 - [X] Getting Started with Particle Systems
 - [X] Adding a Particle System
 - [X] Introducing the Emission Module
-- [ ] Building a Bomb (Effect)
+- [X] Building a Bomb (Effect)
